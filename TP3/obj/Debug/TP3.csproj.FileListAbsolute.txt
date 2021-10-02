@@ -1,0 +1,6 @@
+C:\Users\aymma\RiderProjects\TP3\TP3\bin\Debug\TP3.exe
+C:\Users\aymma\RiderProjects\TP3\TP3\bin\Debug\TP3.pdb
+C:\Users\aymma\RiderProjects\TP3\TP3\obj\Debug\TP3.csproj.AssemblyReference.cache
+C:\Users\aymma\RiderProjects\TP3\TP3\obj\Debug\TP3.csproj.CoreCompileInputs.cache
+C:\Users\aymma\RiderProjects\TP3\TP3\obj\Debug\TP3.exe
+C:\Users\aymma\RiderProjects\TP3\TP3\obj\Debug\TP3.pdb
